@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /usr/local/115/115
+sh /usr/local/115Browser/115.sh
